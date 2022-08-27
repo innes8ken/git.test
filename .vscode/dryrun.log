@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/innes/programming/git.test'
+g++ -std=c++11 -Wall -o Greetings  
+make: Leaving directory '/home/innes/programming/git.test'
+ 
